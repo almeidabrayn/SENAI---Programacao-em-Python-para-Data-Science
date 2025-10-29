@@ -1,0 +1,1000 @@
+﻿data;loja;local;vendedor;produto;preço
+03/01/2022;Filial São Paulo;Santo André;Leadro;TV;4566
+03/01/2022;Matriz São Paulo;São Paulo;Flavio;Geladeira;5666
+03/01/2022;Filial Bahia;Salvador;Francisco;Celular;3500
+03/01/2022;Matriz São Paulo;São Paulo;Alessandra;Celular;3500
+03/01/2022;Matriz São Paulo;São Paulo;João;TV;4566
+03/01/2022;Filial Rio de Janeiro;Rio de Janeiro;Alex;TV;4566
+03/01/2022;Filial Bahia;Salvador;Francisco;Celular;3500
+03/01/2022;Filial São Paulo;Santo André;Leadro;tablet;5000
+03/01/2022;Matriz São Paulo;São Paulo;Alessandra;Cadeira;600
+03/01/2022;Filial Minas Gerais;Belo Horizonte;Jorge;fone de ouvido;150
+03/01/2022;Matriz São Paulo;São Paulo;Flavio;Celular;3500
+03/01/2022;Filial Minas Gerais;Belo Horizonte;Ana;TV;4566
+03/01/2022;Filial Minas Gerais;Belo Horizonte;Jorge;TV;4566
+03/01/2022;Matriz São Paulo;São Paulo;Alessandra;tablet;5000
+03/01/2022;Filial Santa Catarina;Florianópolis;Beatriz;notebook;6000
+03/01/2022;Matriz São Paulo;São Paulo;João;Cadeira;600
+03/01/2022;Filial Santa Catarina;Florianópolis;Beatriz;TV;4566
+03/01/2022;Filial Bahia;Salvador;Francisco;Celular;3500
+03/01/2022;Filial Santa Catarina;Florianópolis;Beatriz;Celular;3500
+03/01/2022;Matriz São Paulo;São Paulo;Flavio;Maquina de Lavar;5500
+03/01/2022;Filial Santa Catarina;Florianópolis;Bruna;Cafeteira;1670
+03/01/2022;Filial Rio de Janeiro;Rio de Janeiro;Camila;fone de ouvido;150
+03/01/2022;Matriz São Paulo;São Paulo;João;tablet;5000
+03/01/2022;Filial Bahia;Salvador;Francisco;Geladeira;5666
+03/01/2022;Filial São Paulo;Santo André;Leadro;Celular;3500
+03/01/2022;Filial Rio de Janeiro;Rio de Janeiro;Alex;tablet;5000
+03/01/2022;Matriz São Paulo;São Paulo;João;Celular;3500
+03/01/2022;Filial São Paulo;Santo André;Leadro;tablet;5000
+03/01/2022;Filial São Paulo;Santo André;Maria;TV;4566
+03/01/2022;Matriz São Paulo;São Paulo;João;tablet;5000
+03/01/2022;Filial São Paulo;Santo André;Luiza;notebook;6000
+03/01/2022;Filial Rio de Janeiro;Rio de Janeiro;Osvaldo;Cadeira;600
+03/01/2022;Filial Bahia;Salvador;Francisco;tablet;5000
+03/01/2022;Matriz São Paulo;São Paulo;Alessandra;tablet;5000
+03/01/2022;Matriz São Paulo;São Paulo;João;Celular;3500
+03/01/2022;Filial Minas Gerais;Belo Horizonte;Jorge;TV;4566
+03/01/2022;Matriz São Paulo;São Paulo;Alessandra;Celular;3500
+03/01/2022;Matriz São Paulo;São Paulo;Alessandra;tablet;5000
+03/01/2022;Matriz São Paulo;São Paulo;João;Cadeira;600
+03/01/2022;Matriz São Paulo;São Paulo;Alessandra;fone de ouvido;150
+03/01/2022;Filial Santa Catarina;Florianópolis;Bruna;Celular;3500
+03/01/2022;Filial Rio de Janeiro;Rio de Janeiro;Alex;tablet;5000
+03/01/2022;Matriz São Paulo;São Paulo;Flavio;Celular;3500
+03/01/2022;Filial São Paulo;Santo André;Luiza;notebook;6000
+03/01/2022;Filial Bahia;Salvador;Francisco;notebook;6000
+03/01/2022;Matriz São Paulo;São Paulo;Alessandra;Celular;3500
+03/01/2022;Matriz São Paulo;São Paulo;João;Maquina de Lavar;5500
+03/01/2022;Matriz São Paulo;São Paulo;Alessandra;Cafeteira;1670
+03/01/2022;Matriz São Paulo;São Paulo;Alessandra;fone de ouvido;150
+03/01/2022;Matriz São Paulo;São Paulo;Alessandra;TV;4566
+03/01/2022;Matriz São Paulo;São Paulo;Alessandra;Celular;3500
+03/01/2022;Filial Bahia;Salvador;Francisco;tablet;5000
+03/01/2022;Filial São Paulo;Santo André;Luiza;Cadeira;600
+03/01/2022;Matriz São Paulo;São Paulo;João;fone de ouvido;150
+03/01/2022;Filial Santa Catarina;Florianópolis;Beatriz;Celular;3500
+03/01/2022;Filial Bahia;Salvador;Francisco;notebook;6000
+03/01/2022;Filial Santa Catarina;Florianópolis;Beatriz;Cadeira;600
+03/01/2022;Marta;Matriz São Paulo;Alessandra;Celular;3500
+03/01/2022;Filial Santa Catarina;Florianópolis;Beatriz;Maquina de Lavar;5500
+03/01/2022;Filial Rio de Janeiro;Rio de Janeiro;Osvaldo;TV;4566
+03/01/2022;Matriz São Paulo;São Paulo;Alessandra;Celular;3500
+03/01/2022;Filial Santa Catarina;Florianópolis;Bruna;tablet;5000
+03/01/2022;Filial São Paulo;Santo André;Leadro;Cadeira;600
+03/01/2022;Filial Bahia;Salvador;Francisco;fone de ouvido;150
+03/01/2022;Filial São Paulo;Santo André;Maria;Celular;3500
+03/01/2022;Matriz São Paulo;São Paulo;João;Cadeira;600
+03/01/2022;Filial Santa Catarina;Florianópolis;Beatriz;fone de ouvido;150
+03/01/2022;Filial Rio de Janeiro;Rio de Janeiro;Alex;Celular;3500
+03/01/2022;Filial Minas Gerais;Belo Horizonte;Ana;notebook;6000
+03/01/2022;Matriz São Paulo;São Paulo;Flavio;Cadeira;600
+03/01/2022;Filial São Paulo;Santo André;Leadro;fone de ouvido;150
+03/01/2022;Filial São Paulo;Santo André;Luiza;Geladeira;5666
+03/01/2022;Filial Bahia;Salvador;Francisco;fone de ouvido;150
+03/01/2022;Matriz São Paulo;São Paulo;Alessandra;tablet;5000
+03/01/2022;Filial Rio de Janeiro;Rio de Janeiro;Osvaldo;notebook;6000
+03/01/2022;Matriz São Paulo;São Paulo;João;Cadeira;600
+03/01/2022;Matriz São Paulo;São Paulo;Flavio;Cadeira;600
+03/01/2022;Filial Rio de Janeiro;Rio de Janeiro;Alex;fone de ouvido;150
+03/01/2022;Filial São Paulo;Santo André;Leadro;Celular;3500
+03/01/2022;Matriz São Paulo;São Paulo;Alessandra;Celular;3500
+03/01/2022;Filial São Paulo;Santo André;Luiza;notebook;6000
+03/01/2022;Filial Bahia;Salvador;Francisco;TV;4566
+03/01/2022;Filial Santa Catarina;Florianópolis;Bruna;Cafeteira;1670
+03/01/2022;Marta;Matriz São Paulo;Alessandra;tablet;5000
+03/01/2022;Filial São Paulo;Santo André;Leadro;notebook;6000
+03/01/2022;Matriz São Paulo;São Paulo;João;Cadeira;600
+03/01/2022;Filial Rio de Janeiro;Rio de Janeiro;Osvaldo;tablet;5000
+03/01/2022;Filial São Paulo;Santo André;Leadro;Cafeteira;1670
+03/01/2022;Filial Bahia;Salvador;Francisco;Celular;3500
+03/01/2022;Filial São Paulo;Santo André;Luiza;fone de ouvido;150
+03/01/2022;Matriz São Paulo;São Paulo;Alessandra;Celular;3500
+03/01/2022;Matriz São Paulo;São Paulo;Flavio;fone de ouvido;150
+03/01/2022;Filial Rio de Janeiro;Rio de Janeiro;Alex;Celular;3500
+03/01/2022;Filial Rio de Janeiro;Rio de Janeiro;Alex;fone de ouvido;150
+03/01/2022;Filial Bahia;Salvador;Francisco;Celular;3500
+03/01/2022;Filial Minas Gerais;Belo Horizonte;Jorge;Maquina de Lavar;5500
+03/01/2022;Matriz São Paulo;São Paulo;Flavio;Geladeira;5666
+03/01/2022;Matriz São Paulo;São Paulo;João;TV;4566
+03/01/2022;Filial Rio de Janeiro;Rio de Janeiro;Osvaldo;Celular;3500
+03/01/2022;Filial São Paulo;Santo André;Leadro;tablet;5000
+03/01/2022;Filial Rio de Janeiro;Rio de Janeiro;Alex;Cadeira;600
+03/01/2022;Filial São Paulo;Santo André;Luiza;fone de ouvido;150
+03/01/2022;Matriz São Paulo;São Paulo;Alessandra;Celular;3500
+03/01/2022;Filial Santa Catarina;Florianópolis;Beatriz;fone de ouvido;150
+03/01/2022;Matriz São Paulo;São Paulo;Alessandra;Celular;3500
+03/01/2022;Filial Bahia;Salvador;Francisco;notebook;6000
+03/01/2022;Filial São Paulo;Santo André;Leadro;fone de ouvido;150
+03/01/2022;Matriz São Paulo;São Paulo;João;Geladeira;5666
+03/01/2022;Matriz São Paulo;São Paulo;Marta;fone de ouvido;150
+03/01/2022;Filial São Paulo;Santo André;Luiza;Celular;3500
+03/01/2022;Matriz São Paulo;São Paulo;Flavio;fone de ouvido;150
+03/01/2022;Filial Minas Gerais;Belo Horizonte;Ana;Cafeteira;1670
+03/01/2022;Filial Bahia;Salvador;Francisco;Celular;3500
+04/01/2022;Matriz São Paulo;São Paulo;Marta;fone de ouvido;150
+04/01/2022;Matriz São Paulo;São Paulo;Alessandra;Geladeira;5666
+04/01/2022;Filial São Paulo;Santo André;Leadro;notebook;6000
+04/01/2022;Matriz São Paulo;São Paulo;João;Celular;3500
+04/01/2022;Filial Rio de Janeiro;Rio de Janeiro;Alex;tablet;5000
+04/01/2022;Filial São Paulo;Santo André;Leadro;notebook;6000
+04/01/2022;Matriz São Paulo;São Paulo;João;Celular;3500
+04/01/2022;Filial Rio de Janeiro;Rio de Janeiro;Osvaldo;Cafeteira;1670
+04/01/2022;Filial Santa Catarina;Florianópolis;Beatriz;TV;4566
+04/01/2022;Matriz São Paulo;São Paulo;Alessandra;Celular;3500
+04/01/2022;Filial Rio de Janeiro;Rio de Janeiro;Matheus;tablet;5000
+04/01/2022;Filial Santa Catarina;Florianópolis;Bruna;Cadeira;600
+04/01/2022;Matriz São Paulo;São Paulo;João;fone de ouvido;150
+04/01/2022;Filial São Paulo;Santo André;Leadro;Celular;3500
+04/01/2022;Filial Rio de Janeiro;Rio de Janeiro;Matheus;Cadeira;600
+04/01/2022;Filial São Paulo;Santo André;Maria;fone de ouvido;150
+04/01/2022;Filial Rio de Janeiro;Rio de Janeiro;Alex;Cadeira;600
+04/01/2022;Filial São Paulo;Santo André;Luiza;fone de ouvido;150
+04/01/2022;Matriz São Paulo;São Paulo;Alessandra;notebook;6000
+04/01/2022;Filial Santa Catarina;Florianópolis;Beatriz;Maquina de Lavar;5500
+04/01/2022;Matriz São Paulo;São Paulo;João;Celular;3500
+04/01/2022;Matriz São Paulo;São Paulo;Alessandra;Cadeira;600
+04/01/2022;Matriz São Paulo;São Paulo;Marta;fone de ouvido;150
+04/01/2022;Filial Rio de Janeiro;Rio de Janeiro;Alex;Celular;3500
+04/01/2022;Matriz São Paulo;São Paulo;Marta;TV;4566
+04/01/2022;Matriz São Paulo;São Paulo;Flavio;notebook;6000
+04/01/2022;Filial Minas Gerais;Belo Horizonte;Jorge;Celular;3500
+04/01/2022;Filial São Paulo;Santo André;Leadro;notebook;6000
+04/01/2022;Matriz São Paulo;São Paulo;João;tablet;5000
+04/01/2022;Filial Bahia;Salvador;Francisco;Geladeira;5666
+04/01/2022;Filial Rio de Janeiro;Rio de Janeiro;Osvaldo;notebook;6000
+04/01/2022;Matriz São Paulo;São Paulo;Alessandra;Celular;3500
+04/01/2022;Filial Rio de Janeiro;Rio de Janeiro;Matheus;notebook;6000
+04/01/2022;Filial Santa Catarina;Florianópolis;Beatriz;Cafeteira;1670
+04/01/2022;Matriz São Paulo;São Paulo;João;notebook;6000
+04/01/2022;Filial São Paulo;Santo André;Leadro;TV;4566
+04/01/2022;Filial Rio de Janeiro;Rio de Janeiro;Camila;Celular;3500
+04/01/2022;Filial São Paulo;Santo André;Leadro;tablet;5000
+04/01/2022;Matriz São Paulo;São Paulo;Alessandra;Cadeira;600
+04/01/2022;Filial São Paulo;Santo André;Luiza;fone de ouvido;150
+04/01/2022;Filial Rio de Janeiro;Rio de Janeiro;Osvaldo;Celular;3500
+04/01/2022;Filial Rio de Janeiro;Rio de Janeiro;Matheus;Cadeira;600
+04/01/2022;Matriz São Paulo;São Paulo;João;fone de ouvido;150
+04/01/2022;Filial Minas Gerais;Belo Horizonte;Jorge;Cafeteira;1670
+04/01/2022;Filial São Paulo;Santo André;Leadro;Celular;3500
+04/01/2022;Matriz São Paulo;São Paulo;Alessandra;TV;4566
+04/01/2022;Matriz São Paulo;São Paulo;João;Geladeira;5666
+04/01/2022;Filial Santa Catarina;Florianópolis;Beatriz;Celular;3500
+04/01/2022;Matriz São Paulo;São Paulo;Marta;Maquina de Lavar;5500
+04/01/2022;Filial Bahia;Salvador;Francisco;Cafeteira;1670
+04/01/2022;Matriz São Paulo;São Paulo;Marta;fone de ouvido;150
+04/01/2022;Matriz São Paulo;São Paulo;João;tablet;5000
+04/01/2022;Filial Santa Catarina;Florianópolis;Beatriz;notebook;6000
+04/01/2022;Matriz São Paulo;São Paulo;Alessandra;Cadeira;600
+04/01/2022;Matriz São Paulo;São Paulo;Marta;Celular;3500
+04/01/2022;Filial Minas Gerais;Belo Horizonte;Jorge;Cadeira;600
+04/01/2022;Matriz São Paulo;São Paulo;João;fone de ouvido;150
+04/01/2022;Matriz São Paulo;São Paulo;Marta;Celular;3500
+04/01/2022;Matriz São Paulo;São Paulo;Flavio;Celular;3500
+04/01/2022;Filial São Paulo;Santo André;Luiza;tablet;5000
+04/01/2022;Matriz São Paulo;São Paulo;Marta;Cafeteira;1670
+04/01/2022;Matriz São Paulo;São Paulo;João;Celular;3500
+04/01/2022;Filial São Paulo;Santo André;Leadro;Celular;3500
+04/01/2022;Matriz São Paulo;São Paulo;Alessandra;Celular;3500
+04/01/2022;Matriz São Paulo;São Paulo;Alessandra;Cadeira;600
+04/01/2022;Filial Santa Catarina;Florianópolis;Beatriz;fone de ouvido;150
+04/01/2022;Matriz São Paulo;São Paulo;Marta;notebook;6000
+04/01/2022;Matriz São Paulo;São Paulo;João;Celular;3500
+04/01/2022;Filial São Paulo;Santo André;Luiza;Celular;3500
+04/01/2022;Filial Rio de Janeiro;Rio de Janeiro;Camila;TV;4566
+04/01/2022;Filial Santa Catarina;Florianópolis;Beatriz;Celular;3500
+04/01/2022;Filial São Paulo;Santo André;Leadro;Celular;3500
+04/01/2022;Matriz São Paulo;São Paulo;Alessandra;Cadeira;600
+04/01/2022;Filial Minas Gerais;Belo Horizonte;Ana;fone de ouvido;150
+04/01/2022;Matriz São Paulo;São Paulo;Marta;Celular;3500
+04/01/2022;Matriz São Paulo;São Paulo;João;Celular;3500
+04/01/2022;Filial Rio de Janeiro;Rio de Janeiro;Camila;fone de ouvido;150
+04/01/2022;Filial São Paulo;Santo André;Luiza;fone de ouvido;150
+04/01/2022;Matriz São Paulo;São Paulo;Marta;Cadeira;600
+05/01/2022;Matriz São Paulo;São Paulo;Alessandra;fone de ouvido;150
+05/01/2022;Filial Santa Catarina;Florianópolis;Beatriz;Celular;3500
+05/01/2022;Matriz São Paulo;São Paulo;Marta;fone de ouvido;150
+05/01/2022;Matriz São Paulo;São Paulo;João;Celular;3500
+05/01/2022;Matriz São Paulo;São Paulo;Marta;TV;4566
+05/01/2022;Matriz São Paulo;São Paulo;Flavio;notebook;6000
+05/01/2022;Matriz São Paulo;São Paulo;Alessandra;fone de ouvido;150
+05/01/2022;Filial Minas Gerais;Belo Horizonte;Ana;Celular;3500
+05/01/2022;Filial Minas Gerais;Belo Horizonte;Jorge;Cafeteira;1670
+05/01/2022;Filial São Paulo;Santo André;Maria;Maquina de Lavar;5500
+05/01/2022;Matriz São Paulo;São Paulo;João;fone de ouvido;150
+05/01/2022;Filial São Paulo;Santo André;Leadro;TV;4566
+05/01/2022;Filial Santa Catarina;Florianópolis;Beatriz;tablet;5000
+05/01/2022;Filial Minas Gerais;Belo Horizonte;Ana;Celular;3500
+05/01/2022;Matriz São Paulo;São Paulo;Alessandra;Cadeira;600
+05/01/2022;Filial Minas Gerais;Belo Horizonte;Ana;fone de ouvido;150
+05/01/2022;Filial São Paulo;Santo André;Luiza;Celular;3500
+05/01/2022;Matriz São Paulo;São Paulo;João;Geladeira;5666
+05/01/2022;Filial São Paulo;Santo André;Leadro;notebook;6000
+05/01/2022;Filial Bahia;Salvador;Francisco;notebook;6000
+05/01/2022;Matriz São Paulo;São Paulo;Flavio;Celular;3500
+05/01/2022;Filial Rio de Janeiro;Rio de Janeiro;Camila;notebook;6000
+05/01/2022;Filial Santa Catarina;Florianópolis;Beatriz;Cadeira;600
+05/01/2022;Filial São Paulo;Santo André;Maria;fone de ouvido;150
+05/01/2022;Matriz São Paulo;São Paulo;João;Celular;3500
+05/01/2022;Filial Santa Catarina;Florianópolis;Beatriz;fone de ouvido;150
+05/01/2022;Filial Minas Gerais;Belo Horizonte;Ana;TV;4566
+05/01/2022;Filial São Paulo;Santo André;Luiza;notebook;6000
+05/01/2022;Matriz São Paulo;São Paulo;João;TV;4566
+05/01/2022;Matriz São Paulo;São Paulo;Alessandra;Celular;3500
+05/01/2022;Filial São Paulo;Santo André;Leadro;tablet;5000
+05/01/2022;Filial Santa Catarina;Florianópolis;Beatriz;TV;4566
+05/01/2022;Matriz São Paulo;São Paulo;João;Celular;3500
+05/01/2022;Filial Minas Gerais;Belo Horizonte;Ana;Cadeira;600
+05/01/2022;Filial Minas Gerais;Belo Horizonte;Ana;fone de ouvido;150
+05/01/2022;Filial Minas Gerais;Belo Horizonte;Ana;Celular;3500
+05/01/2022;Filial Minas Gerais;Belo Horizonte;Ana;Celular;3500
+05/01/2022;Matriz São Paulo;São Paulo;João;Celular;3500
+05/01/2022;Filial Minas Gerais;Belo Horizonte;Ana;Celular;3500
+05/01/2022;Filial Santa Catarina;Florianópolis;Beatriz;Celular;3500
+05/01/2022;Filial Minas Gerais;Belo Horizonte;Ana;Cadeira;600
+05/01/2022;Filial São Paulo;Santo André;Luiza;fone de ouvido;150
+05/01/2022;Filial Santa Catarina;Florianópolis;Beatriz;Cafeteira;1670
+05/01/2022;Matriz São Paulo;São Paulo;João;TV;4566
+05/01/2022;Filial São Paulo;Santo André;Maria;Celular;3500
+05/01/2022;Filial Santa Catarina;Florianópolis;Beatriz;Geladeira;5666
+05/01/2022;Matriz São Paulo;São Paulo;Flavio;Celular;3500
+05/01/2022;Filial Santa Catarina;Florianópolis;Bruna;Maquina de Lavar;5500
+05/01/2022;Filial Minas Gerais;Belo Horizonte;Ana;Celular;3500
+05/01/2022;Matriz São Paulo;São Paulo;João;tablet;5000
+05/01/2022;Filial Santa Catarina;Florianópolis;Bruna;Celular;3500
+05/01/2022;Filial Bahia;Salvador;Francisco;Geladeira;5666
+05/01/2022;Filial Santa Catarina;Florianópolis;Beatriz;fone de ouvido;150
+05/01/2022;Filial Santa Catarina;Florianópolis;Beatriz;notebook;6000
+05/01/2022;Matriz São Paulo;São Paulo;João;Celular;3500
+05/01/2022;Filial São Paulo;Santo André;Maria;Cafeteira;1670
+05/01/2022;Filial Minas Gerais;Belo Horizonte;Ana;Maquina de Lavar;5500
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
