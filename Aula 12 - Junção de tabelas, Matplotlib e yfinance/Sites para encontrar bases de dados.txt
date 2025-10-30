@@ -1,0 +1,3 @@
+https://dados.gov.br/home?authuser=0
+https://www.kaggle.com/?authuser=0
+https://datasetsearch.research.google.com/
