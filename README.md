@@ -6,42 +6,21 @@
 
 ### Pré-requisitos
 - Python
-- Visual Studio Code com Extensão em Python ou qualquer outro copilador Python
+- Visual Studio Code com Extensão em Python ou qualquer outro copilador Python como Pycharm ou Jupyter IDE
 
 ### Passo a Passo
 
-1. **Importar no Eclipse**
-   - Abra o Eclipse
-   - `File` → `Import` → `Existing Projects into Workspace`
+1. **Importar os arquivos**
+   - Abra o Visual Studio / Pycharm / Jupyter IDE
+   - `File` → `Open Folder`
    - Selecione a pasta do projeto
 
-2. **Configurar Banco de Dados**
-   - Abra seu cliente SQL (MySQL Workbench, DBeaver, HeidiSQL ou similar)
-   - Execute o arquivo: `sql/script_biblioteca.sql`
-   - Verifique se as tabelas foram criadas corretamente
-
-3. **Configurar Conexão**
-   - Edite o arquivo: `src/util/Conexao.java`
-   - Atualize: URL, usuário e senha do seu banco de dados
-
-4. **Executar Aplicação**
-   - Clique direito em `MenuPrincipal.java`
-   - Selecione `Run As` → `Java Application`
-
-## 🔧 Configuração Avançada
-
-### Banco de Dados Alternativos
-Se estiver usando XAMPP:
-- Servidor: `localhost:3306`
-- Usuário padrão: `root` (senha em branco)
-
-### Dependências
-- O driver JDBC está incluído em `/lib/`
-- Versão do MySQL Connector: 8.0.xx
+2. **Configurar os Arquivos**
+   - Alguns arquivos estarão com a URL de seus dados quebrados, será necessário arrumar eles manualmente
+   - Baixar os Dados junto com os arquivos (apenas os que tiverem dados junto com os arquivos de exercícios)
+   - Substituir as URL pelo local a onde está os Dados que foram baixados
 
 ## ⁉️ Solução de Problemas
-Se encontrar erros de conexão:
-1. Verifique se o MySQL está rodando
-2. Confira usuário/senha no `Conexao.java`
-
-3. Teste a conexão usando outro cliente SQL
+Se encontrar erros de execução:
+1. Verifique se os arquivos Dados, Data Base, etc. Foram baixados juntamente com o arquivo
+2. Verificar e alterar a `URL` do local dos `Banco de Dados` dos arquivos, pois os mesmos estarão diferentes dos baixados atualmente
