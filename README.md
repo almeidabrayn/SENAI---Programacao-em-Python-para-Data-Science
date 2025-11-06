@@ -22,5 +22,5 @@
 
 ## ⁉️ Solução de Problemas
 Se encontrar erros de execução:
-1. Verifique se os arquivos Dados, Data Base, etc... Foram baixados juntamente com o arquivo.
-2. Verificar e alterar a `URL` do local dos `Banco de Dados` dos arquivos, pois os mesmos estarão diferentes dos baixados atualmente.
+1. Verifique se os arquivos Dados, Data Base, etc... Foram baixados juntamente com o arquivo
+2. Verificar e alterar a `URL` do local dos `Banco de Dados` dos arquivos, pois os mesmos estarão diferentes dos baixados atualmente
